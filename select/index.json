@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lonely",
+  "base_artist": "林 和希",
+  "createdAt": "2025-12-12T15:51:10.712593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are You Lonely (feat. ISÁK)",
+      "artist": "Steve Aoki feat. Alan Walker & Isak",
+      "has_synced": true,
+      "path": "select/01_Are_You_Lonely_(feat._ISÁK)_Steve_Aoki_feat._Alan_Walker_&_Isak.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are You Lonely",
+      "artist": "Steve Aoki;Alan Walker;Isak",
+      "has_synced": true,
+      "path": "select/02_Are_You_Lonely_Steve_Aoki;Alan_Walker;Isak.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feeling Lonely",
+      "artist": "boy pablo",
+      "has_synced": true,
+      "path": "select/03_Feeling_Lonely_boy_pablo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Night Lonely",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/04_Last_Night_Lonely_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely (feat. Isak & Omar Noir)",
+      "artist": "Alan Walker & Steve Aoki feat. Isak & Omar Noir",
+      "has_synced": true,
+      "path": "select/05_Lonely_(feat._Isak_&_Omar_Noir)_Alan_Walker_&_Steve_Aoki_feat._Isak_&_Omar_Noir.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely",
+      "artist": "Alan Walker;Steve Aoki;Isak;Omar Noir",
+      "has_synced": true,
+      "path": "select/06_Lonely_Alan_Walker;Steve_Aoki;Isak;Omar_Noir.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Owner Of A Lonely Heart",
+      "artist": "Yes",
+      "has_synced": true,
+      "path": "select/07_Owner_Of_A_Lonely_Heart_Yes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lonely Steel Sheet Flyer",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/08_Lonely_Steel_Sheet_Flyer_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lonely Steel Sheet Flyer",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/09_Lonely_Steel_Sheet_Flyer_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Man This Lonely",
+      "artist": "Brooks & Dunn",
+      "has_synced": false,
+      "path": "select/10_A_Man_This_Lonely_Brooks_&_Dunn.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ain't That Lonely Yet",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/11_Ain't_That_Lonely_Yet_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ain't That Lonely Yet",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/12_Ain't_That_Lonely_Yet_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ain't That Lonely Yet (LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/13_Ain't_That_Lonely_Yet_(LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ain't That Lonely Yet - 2006 Remastered Version",
+      "artist": "Dwight Yoakam",
+      "has_synced": false,
+      "path": "select/14_Ain't_That_Lonely_Yet_-_2006_Remastered_Version_Dwight_Yoakam.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ain't That Lonely Yet (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": false,
+      "path": "select/15_Ain't_That_Lonely_Yet_(Remastered_LP_Version)_Dwight_Yoakam.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Another Lonely Song",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/16_Another_Lonely_Song_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Leave Her Lonely Too Long",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/17_Don't_Leave_Her_Lonely_Too_Long_Gary_Allan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lonely",
+      "artist": "林和希",
+      "has_synced": false,
+      "path": "select/pl_01_Lonely_林和希.txt"
+    }
+  ]
+}
